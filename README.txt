@@ -22,8 +22,6 @@ C2 communication method: TCP sockets
 Effected platforms: Linux/Unix environments
            
 Author: Waived
-Github: https://github.com/waived
-E-mail: waived@protonmail.com
 ──────────────────────────────────────────────────────────────────────────
                                CAPABILITIES 
 ──────────────────────────────────────────────────────────────────────────
