@@ -150,10 +150,10 @@ running routines.
 V&:
 The V& ("vanned") command is a panic feature. Once executed, Exile
 will terminate all client connection via the "uninstall" command.
-It also will self terminal (via BASH) by deleting the active
+It also will self terminate (via BASH) by deleting the active
 server.py script.
 
-Be careful! There is no confirmation when process this request!
+Be careful! There is no confirmation when processing this request!
 
 =======
 CLIENT:
