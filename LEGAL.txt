@@ -1,0 +1,47 @@
+RESPONSIBLE USE POLICY
+
+By downloading and using any code or software provided herein, you agree to the following terms and conditions:
+
+    License Agreement: 
+        You acknowledge that the downloaded code is subject to the terms
+        of the applicable license agreement accompanying the code. Ensure
+        compliance with all terms and conditions outlined in the license
+        agreement.
+
+    Authorized Use:
+        You agree to use the downloaded code solely for lawful purposes and
+        in accordance with its intended use as described in the accompanying
+        documentation or license agreement.
+
+    Responsibility for Modifications:
+        Any modifications made to the downloaded code are done at your own
+        risk. You are responsible for ensuring that any modifications comply
+        with applicable laws and regulations and do not infringe upon the
+        rights of any third party.
+
+    No Warranty:
+        The downloaded code is provided "as is" without any warranty, express
+        or implied. The authors or contributors of the code shall not be liable 
+        for any damages arising from the use or inability to use the code.
+
+    Attribution: When applicable, you agree to provide appropriate attribution
+        to the authors or contributors of the downloaded code as specified in the
+        accompanying documentation or license agreement.
+
+    Compliance with Laws:
+        You agree to comply with all applicable laws, regulations, and policies
+        governing the use of the downloaded code, including but not limited to
+        intellectual property laws and export control regulations.
+
+    Indemnification: 
+        You agree to indemnify and hold harmless the authors or contributors of
+        the downloaded code from any claims, damages, liabilities, or expenses
+        arising from your use or misuse of the code.
+
+    Termination:
+        These terms and conditions are effective until terminated. The authors
+        or contributors of the code reserve the right to terminate this agreement
+        at any time if you fail to comply with its terms.
+
+By downloading and using the code, you acknowledge that you have read, understood, and agree to be bound by these
+terms and conditions. If you do not agree with these terms, you are not authorized to download or use the code.
