@@ -16,6 +16,7 @@ Languages: Python 3.11.9
 Tested on: KaOS amd64 minimal-2024
            Kali Linux 2024.1
            Ubuntu 24.01
+           Microsoft Windows 11 (Version 23H2)
            
 C2 communication method: TCP sockets
            
