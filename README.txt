@@ -118,7 +118,7 @@ Author: Waived
     sent.
     
 --- TLS:
-    This attack attempts to exhaustion SSL/TLS slates on HTTPS protected
+    This attack attempts to exhaust SSL/TLS slates on HTTPS protected
     websites. It begins the TLS encryption process, then drops the connection
     and quickly spawns a new TLS agreement. This process is done repeatedily
     over the same TCP socket until forcibly closed by the endpoint. Upon 
