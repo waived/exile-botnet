@@ -60,7 +60,7 @@ Author: Waived
     Standard junk flood via UDP. Dynamic data buffer with non-fixed length.
 
 --- TCP:
-    Standard junk flood via UDP. Dynamic data buffer with non-fixed length.
+    Standard junk flood via TCP. Dynamic data buffer with non-fixed length.
 
 --- RHEX:
     UDP flood using random hexadecimal values. Dynamic data buffer with non-
